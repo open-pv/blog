@@ -1,5 +1,6 @@
 site_name: OpenPV | Blog
 theme:
+  font: false
   name: material
   custom_dir: overrides
   palette:
