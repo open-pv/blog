@@ -1,4 +1,4 @@
-site_name: OpenPV | Blog
+site_name: About OpenPV
 theme:
   font: false
   name: material
@@ -34,6 +34,8 @@ plugins:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
+  - md_in_html
 
 extra_javascript:
   - javascripts/katex.js
