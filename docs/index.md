@@ -6,11 +6,11 @@ We are a team of open source software developers and data engineers based in Ger
 - ![Martin Grosshauser](assets/authors/grosshauser.jpg){width="300"}
   Martin Grosshauser - *Data Engineer*
 - [![Florian Kotthoff](assets/authors/kotthoff.jpg)
-  Florian Kotthoff - *Web Developer*](https://kotthoff.dev){:target="_blank"}
+  Florian Kotthoff - *Software Engineer*](https://kotthoff.dev){:target="_blank"}
 - [![Konrad Heidler](assets/authors/heidler.jpg)
-  Konrad Heidler - *Web Developer & Data Engineer*](https://konrad.heidler.info){:target="_blank"}
-- [![Konrad Heidler](assets/authors/heidler.jpg)
-  Korbinian Pöppel - *Web Developer & Data Engineer*](https://korbi.ai){:target="_blank"}
+  Konrad Heidler - *Software & Data Engineer*](https://konrad.heidler.info){:target="_blank"}
+- [![Konrad Heidler](assets/authors/poeppel.jpg)
+  Korbinian Pöppel - *Software Engineer*](https://korbi.ai){:target="_blank"}
 
 </div>
 
