@@ -1,7 +1,5 @@
 ---
 date: 2024-04-17
-categories:
-  - Technology
 authors:
   - floko
 
