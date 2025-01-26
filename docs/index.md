@@ -8,7 +8,7 @@ We are a team of open source software developers and data engineers based in Ger
 
     ___
 
-    Martin Grosshauser - *Data Engineer*
+    [Martin Grosshauser - *Data Engineer*](https://muenchen.social/@magro){:target="_blank" :rel="noopener noreferrer"}
 
 -   ![Florian Kotthoff](assets/authors/kotthoff.jpg)
 
