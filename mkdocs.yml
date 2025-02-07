@@ -19,7 +19,7 @@ theme:
   features:
     - announce.dismiss
 
-copyright: <a href="https://openpv.de/Impressum">Impressum</a>
+copyright: <a href="https://openpv.de/Impressum">Impressum</a> | <a href="https://openpv.de/Datenschutz">Datenschutz</a>
 
 
 plugins:
