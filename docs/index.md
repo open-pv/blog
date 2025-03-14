@@ -34,7 +34,7 @@ We are a team of open source software developers and data engineers based in Ger
 <br/>
 <br/>
 # Work with us
-Tired of the hassle of working with open data? We simplify the process of transforming and enriching open geodata into comprehensive, user-friendly datasets. Here's what we can provide:
+Fed up with the complexities of working with open data? We simplify the process of transforming and enriching open geodata into comprehensive, user-friendly datasets. Here's what we can provide:
 
 
 <div class="grid cards" markdown style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); display: grid;">
@@ -43,7 +43,7 @@ Tired of the hassle of working with open data? We simplify the process of transf
     
     ___
     
-    __🏠 A unified dataset of 3D Buildings for Germany from the LOD2 data of all 16 states__
+    __🏠 A unified dataset of 5.7 million 3D Buildings for whole Germany from LOD2 data__
 
     
     
