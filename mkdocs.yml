@@ -21,6 +21,8 @@ theme:
 
 copyright: <a href="https://openpv.de/Impressum">Impressum</a> | <a href="https://openpv.de/Datenschutz">Datenschutz</a>
 
+site_description: OpenPV.de provides high-quality 3D building and vegetation data solutions in Germany, tailored for applications in planning, simulation, and visualization.
+
 plugins:
   - privacy
   - blog:
