@@ -12,7 +12,7 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
   logo: assets/mstile-144x144.png
   favicon: assets/mstile-144x144.png
@@ -21,18 +21,18 @@ theme:
 
 copyright: <a href="https://openpv.de/Impressum">Impressum</a> | <a href="https://openpv.de/Datenschutz">Datenschutz</a>
 
-
 plugins:
+  - privacy
   - blog:
-      blog_dir: . 
+      blog_dir: .
   - rss:
       enabled: true
-      match_path: posts/.* 
+      match_path: posts/.*
       date_from_meta:
         as_creation: date
       categories:
         - categories
-        - tags 
+        - tags
 
 markdown_extensions:
   - pymdownx.arithmatex:
