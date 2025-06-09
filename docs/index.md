@@ -1,5 +1,6 @@
-# About OpenPV
-We are a team of open source software developers and data engineers based in Germany. We spezialize in building applications based on open geodata. Explore our work at [openpv.de](https://openpv.de).  
+# Über OpenPV
+
+Wir sind ein Team aus Open-Source-Softwareentwicklern aus München und Bremen mit einer Spezialisierung auf Geodatenanwendungen. Unsere Hauptarbeit liegt in der Entwicklung von [openpv.de](https://openpv.de).
 
 <div class="grid cards" markdown style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); display: grid;">
 
@@ -33,17 +34,18 @@ We are a team of open source software developers and data engineers based in Ger
 <br/>
 <br/>
 <br/>
-# Work with us
-Fed up with the complexities of working with open data? We simplify the process of transforming and enriching open geodata into comprehensive, user-friendly datasets. Here's what we can provide:
+# Arbeiten Sie mit uns
 
+Sie haben Probleme bei der Arbeit mit offenen Daten? Wir vereinfachen den Prozess der Transformation und Anreicherung offener Geodaten zu umfassenden, benutzerfreundlichen Datensätzen. Das bieten wir:
 
 <div class="grid cards" markdown style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); display: grid;">
 
--   ![A GIF of the 3D building data in Dresden City](assets/images/dresden.gif){width="300"}
+
+-   ![Eine GIF-Animation der 3D-Gebäudedaten der Stadt Dresden](assets/images/dresden.gif){width="300"}
     
     ___
     
-    __🏠 A unified dataset of 5.7 million 3D Buildings for whole Germany from LOD2 data__
+    __🏠 Vereinheitlichter Datensatz mit 5,7 Millionen 3D-Gebäuden für ganz Deutschland aus LOD2-Daten__
 
     
     
@@ -53,17 +55,14 @@ Fed up with the complexities of working with open data? We simplify the process 
 
     ___
 
-    __🌳 Work in Progress - 3D Vegetation data extracted from Laser Scans for several German states__
+    __🌳 In Arbeit – 3D-Vegetationsdaten aus Laserscans für mehrere deutsche Bundesländer__
 
     
-
-
 </div>
 
-If you are interested, reach out to info@openpv.de.
+Wenn Sie interessiert sind, schreiben Sie an info@openpv.de.
 
 <br/>
 <br/>
 <br/>
-# Recent Blog Posts
-
+# Aktuelle Blogbeiträge
