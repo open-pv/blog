@@ -1,4 +1,4 @@
-site_name: About OpenPV
+site_name: openpv - Produkte und Dienstleistungen
 theme:
   font: false
   name: material
@@ -21,7 +21,7 @@ theme:
 
 copyright: <a href="https://openpv.de/Impressum">Impressum</a> | <a href="https://openpv.de/Datenschutz">Datenschutz</a>
 
-site_description: OpenPV.de bietet hochwertige 3D-Gebäude- und Vegetationsdaten in Deutschland - ideal für Anwendungen in Planung, Simulation und Visualisierung.
+site_description: Das Team von openpv.de bietet Dienstleistungen im Bereich 3D-Gebäude- und Vegetationsdaten in Deutschland an - ideal für Anwendungen in Planung, Simulation und Visualisierung.
 
 plugins:
   - privacy
