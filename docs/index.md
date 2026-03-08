@@ -66,6 +66,14 @@ Sie haben Probleme bei der Arbeit mit offenen Daten? Wir vereinfachen den Prozes
 Wenn Sie interessiert sind, schreiben Sie an info@openpv.de.
 
 <br/>
+
+## Weitere Inhalte zu openpv.de
+
+- [Süddeutsche Zeitung](https://www.sueddeutsche.de/muenchen/dachau/karlsfeld-wattbewerb-gemeinde-lux.MqEPfskVpC4WNzVD79FNud){:target="_blank" :rel="noopener noreferrer"}
+- [Radio Dreyeckland](https://rdl.de/beitrag/chaosradio-freiburg-0xa1){:target="_blank" :rel="noopener noreferrer"}
+- [38. Chaos Communication Congress](https://media.ccc.de/v/38c3-openpv-calculate-the-solar-potential-of-your-building){:target="_blank" :rel="noopener noreferrer"}
+
+
 <br/>
 <br/>
 ## Aktuelle Blogbeiträge
