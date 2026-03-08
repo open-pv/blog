@@ -12,10 +12,10 @@ PV systems can use two different sources of sun radiation to generate electricit
 <!-- more -->
 ## Steps
 ### Search for a diffuse radiation model
-The goal is to have a function that gets a sun position ($\theta$ and $\phi$ in spherical coordinates) and returns the amount of diffuse radiation for every part of the sky (ie for every $\theta'$ and $\phi'$). We identified the publication [Anisotropic Sky Radiance Model based on Narrow Field of View Measurements of Shortwave Radiance](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=93f59805f64fd372d7ce5e18addbeadcc846de6b) to contain exactly that kind of model. It needs additional parameters based on the climate situation of the location of interest, ie the cloudiness.
+The goal is to have a function that gets a sun position (θ and φ in spherical coordinates) and returns the amount of diffuse radiation for every part of the sky (ie for every θ' and φ'). We identified the publication [Anisotropic Sky Radiance Model based on Narrow Field of View Measurements of Shortwave Radiance](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=93f59805f64fd372d7ce5e18addbeadcc846de6b) to contain exactly that kind of model. It needs additional parameters based on the climate situation of the location of interest, ie the cloudiness.
 
 ### Implement the model
-We implemented the model and generated diffuse radiation samples. Each sample is a 2D array, containing the yearly average radiation of the given $\theta'$ and $\phi'$ direction. Since sun positions depend not only on the time, but also on the location on earth, we generated one averaged sample for multiple earth positions. 
+We implemented the model and generated diffuse radiation samples. Each sample is a 2D array, containing the yearly average radiation of the given θ' and φ' direction. Since sun positions depend not only on the time, but also on the location on earth, we generated one averaged sample for multiple earth positions.
 
 <figure>
     <img src="radiation.png"
@@ -28,4 +28,4 @@ We implemented the model and generated diffuse radiation samples. Each sample is
 The precalculated diffuse radiance is then hosted as json files on a server. They are named depending on their coordinates, ie "latitude/longitude.json" -> "23/44.5.json".
 
 ### Add new feature to @openpv/simshady
-`@openpv/simshady` is our npm package to simulate PV yields in the browser. Originally it only used the direct radiation of the sun. We now extend the functionality as follows: The source of sun intensities can be set as an API request. The returned json is expected to contain a nested 2D array. It should contain the average yearly irradiance coming from the sky segment $\theta'$ and $\phi'$. If no such API is given, the fallback method is to sample over random sun positions and only use the direct radiation in the simulation.
+`@openpv/simshady` is our npm package to simulate PV yields in the browser. Originally it only used the direct radiation of the sun. We now extend the functionality as follows: The source of sun intensities can be set as an API request. The returned json is expected to contain a nested 2D array. It should contain the average yearly irradiance coming from the sky segment θ' and φ'. If no such API is given, the fallback method is to sample over random sun positions and only use the direct radiation in the simulation.
